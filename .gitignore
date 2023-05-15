@@ -1,0 +1,6 @@
+.env
+*.mp4
+*.mp3
+*.wav
+*.mov
+*.aep
