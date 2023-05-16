@@ -141,7 +141,6 @@ for (var i = 0; i < data.length; i++) {
     imageLayer.property("ADBE Effect Parade").addProperty("ADBE Gaussian Blur");
     imageLayer.property("ADBE Effect Parade").property("ADBE Gaussian Blur").property("ADBE Gaussian Blur-0001").setValue(30);
 
-
     // Adjust the audio file reference
     var audioFile = new File(file.path + "/audio/audio" + i + ".wav");
     var audioImportOptions = new ImportOptions(audioFile);
@@ -161,7 +160,6 @@ for (var i = 0; i < data.length; i++) {
 
     // Create a new text layer for the source
     var sourceTextLayer = sentenceComp.layers.addText(data[i].source.replace("...", ":"));
-
 
     // Create a TextDocument object from the layer's Source Text
     var sourceTextProp = sourceTextLayer.property("Source Text");
@@ -206,7 +204,6 @@ for (var i = 0; i < data.length; i++) {
 
     // Update the layer's Source Text with the modified TextDocument
     textProp.setValue(textDocument);
-
 
     // Center the text
     var textLayerBounds = textLayer.sourceRectAtTime(0, false);

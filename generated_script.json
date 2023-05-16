@@ -1,50 +1,68 @@
 [
-  {
-    "title": "\"Audio Book Narrators Say AI Is Already Taking Away Business\"",
-    "url": "https://www.ibtimes.com/audio-book-narrators-say-ai-already-taking-away-business-3693074",
-    "source": "source... International Business Times",
-    "publishedAt": "2023-05-14T01:45:18Z"
-  },
-  {
-    "title": "\"Humans could be controlled by robots, AI firm\u2019s founder warns\"",
-    "url": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
-    "source": "source... Independent",
-    "publishedAt": "2023-05-13T18:24:45Z"
-  },
-  {
-    "title": "\"PCAST Working Group on Generative AI Invites Public Input\"",
-    "url": "https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/",
-    "source": "source... Wordpress.com",
-    "publishedAt": "2023-05-13T19:22:02Z"
-  },
-  {
-    "title": "\"Papa John's CEO sees a place for AI in the pizza business\"",
-    "url": "https://biztoc.com/x/a8a2338a54d6e1fd",
-    "source": "source... Biztoc.com",
-    "publishedAt": "2023-05-13T18:54:07Z"
-  },
-  {
-    "title": "\"This AI girlfriend made $72k in a week\"",
-    "url": "https://www.windowscentral.com/software-apps/this-ai-girlfriend-made-dollar72k-in-a-week",
-    "source": "source... Windows Central",
-    "publishedAt": "2023-05-13T17:50:25Z"
-  },
-  {
-    "title": "\"I\u2019m a student you have no idea how much we are using ChatGPT\"",
-    "url": "https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt",
-    "source": "source... The Chronicle of Higher Education",
-    "publishedAt": "2023-05-13T22:13:40Z"
-  },
-  {
-    "title": "\"Talking to animals? See what AI is making possible\"",
-    "url": "https://www.foxnews.com/tech/talking-animals-see-what-ai-making-possible",
-    "source": "source... Fox News",
-    "publishedAt": "2023-05-13T19:10:52Z"
-  },
-  {
-    "title": "\"AI voice synthesising is being hailed as the future of video games \u2013 but at what cost?\"",
-    "url": "https://www.theguardian.com/technology/2023/may/14/ai-voice-synthesising-is-being-hailed-as-the-future-of-video-games-but-at-what-cost",
-    "source": "source... The Guardian",
-    "publishedAt": "2023-05-13T20:00:36Z"
-  }
+    {
+        "title": "\"How AI is Reshaping Online Meetings\"",
+        "url": "https://web-strategist.com/blog/2023/05/14/how-ai-is-reshaping-online-meetings/",
+        "source": "source... Web-strategist.com",
+        "publishedAt": "2023-05-14T18:14:48Z"
+    },
+    {
+        "title": "\"How AI Will Change the Workplace - WSJ\"",
+        "url": "https://biztoc.com/x/7ee566e69599c028",
+        "source": "source... Biztoc.com",
+        "publishedAt": "2023-05-14T19:28:13Z"
+    },
+    {
+        "title": "\"What Is HuggingChat, And Is It Better Than ChatGPT?\"",
+        "url": "https://www.slashgear.com/1285552/what-is-huggingchat-better-than-chatgpt/",
+        "source": "source... SlashGear",
+        "publishedAt": "2023-05-14T18:36:35Z"
+    },
+    {
+        "title": "\"See How This AI Prototype Can Detect Asian Hornets And Protect Bees\"",
+        "url": "https://www.forbes.com/sites/jenniferhicks/2023/05/14/see-how-this-ai-prototype-can-detect-asian-hornets-and-protect-bees/",
+        "source": "source... Forbes",
+        "publishedAt": "2023-05-14T17:57:08Z"
+    },
+    {
+        "title": "\"Google Photos Tests Game-Changing AI Photo Transformation Tool\"",
+        "url": "https://fstoppers.com/artificial-intelligence/google-photos-tests-game-changing-ai-photo-transformation-tool-632422",
+        "source": "source... Fstoppers",
+        "publishedAt": "2023-05-14T20:03:01Z"
+    },
+    {
+        "title": "\"Exploring the Intersection of Human and Machine Creativity with Doopiidoo\u2019s Innovative Approach to Art\"",
+        "url": "https://designyoutrust.com/2023/05/exploring-the-intersection-of-human-and-machine-creativity-with-doopiidoos-innovative-approach-to-art/",
+        "source": "source... Designyoutrust.com",
+        "publishedAt": "2023-05-14T21:54:30Z"
+    },
+    {
+        "title": "\"CrowdStrike Is the Best Cybersecurity Stock to Buy Now for 1 Simple Reason: AI\"",
+        "url": "https://www.fool.com/investing/2023/05/14/crowdstrike-is-the-best-cybersecurity-stock-to-buy/",
+        "source": "source... Motley Fool",
+        "publishedAt": "2023-05-14T14:07:00Z"
+    },
+    {
+        "title": "\"ChatGPT is about to revolutionize cybersecurity\"",
+        "url": "https://venturebeat.com/security/chatgpt-is-about-to-revolutionize-cybersecurity/",
+        "source": "source... VentureBeat",
+        "publishedAt": "2023-05-14T15:20:00Z"
+    },
+    {
+        "title": "\"Can We Trust AI Decision-Making in Cybersecurity?\"",
+        "url": "https://readwrite.com/can-we-trust-ai-decision-making-in-cybersecurity/",
+        "source": "source... ReadWrite",
+        "publishedAt": "2023-05-14T15:00:05Z"
+    },
+    {
+        "title": "\"Seth Rogan is 'distressed' that streaming companies are 'digging in on' using AI to write for TV, sharing support for the strike: 'Thank god for labor unions'\"",
+        "url": "https://www.businessinsider.com/seth-rogan-streaming-services-generative-ai-tv-writers-strike-union-2023-5",
+        "source": "source... Business Insider",
+        "publishedAt": "2023-05-14T15:58:33Z"
+    },
+    {
+        "title": "\"Irish Times apologises for hoax AI article about women\u2019s use of fake tan\"",
+        "url": "https://www.theguardian.com/media/2023/may/14/irish-times-apologises-for-hoax-ai-article-about-womens-use-of-fake-tan",
+        "source": "source... The Guardian",
+        "publishedAt": "2023-05-14T16:29:39Z"
+    }
 ]

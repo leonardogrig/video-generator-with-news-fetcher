@@ -42,9 +42,9 @@ def sanitize_filename(filename):
     return filename
 
 # Generate and save the intro
-# intro_audio = generate(introAndOutroObject['intro'], api_key=elevenLabsApi,
-#                        voice=os.getenv("VOICE_ID"))
-# save(intro_audio, os.path.join(output_dir, "intro.wav"))
+intro_audio = generate(introAndOutroObject['intro'], api_key=elevenLabsApi,
+                       voice=os.getenv("VOICE_ID"))
+save(intro_audio, os.path.join(output_dir, "intro.wav"))
 
 # Generate and save each news item
 for i, item in enumerate(data):
@@ -52,12 +52,12 @@ for i, item in enumerate(data):
     source = sanitize_filename(item['source']).replace("â€™", "'")
     text = f"{title}. {source}"
     audio = generate(text, api_key=elevenLabsApi, voice=os.getenv("VOICE_ID"))
-    output_path = os.path.join(output_dir, f"audio{i+1}.wav")
+    output_path = os.path.join(output_dir, f"audio{i}.wav")
     save(audio, output_path)
 
 # # Generate and save the outro
-# outro_audio = generate(introAndOutroObject['outro'], api_key=elevenLabsApi,
-#                        voice=os.getenv("VOICE_ID"))
-# save(outro_audio, os.path.join(output_dir, "outro.wav"))
+outro_audio = generate(introAndOutroObject['outro'], api_key=elevenLabsApi,
+                       voice=os.getenv("VOICE_ID"))
+save(outro_audio, os.path.join(output_dir, "outro.wav"))
 
 print("Finished processing.")

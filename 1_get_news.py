@@ -35,7 +35,7 @@ def get_news(query, api_key):
     # Convert the response to JSON
     data = response.json()
 
-    # Get the first 5 articles
+    # Get the first 20 articles
     articles = data["articles"][:20]
 
     return articles
